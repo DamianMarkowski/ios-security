@@ -7,10 +7,10 @@ The main goal of this repo is to help people learn how to make their iOS apps mo
 
 Please feel free to submit your Pull Requests, suggest new links that you find useful and helpful.
 
-### Articles
+## Articles
 
-### Videos
+## Videos
 
-### Podcasts
+## Podcasts
 
-### People to follow on Twitter
+## People to follow on Twitter
