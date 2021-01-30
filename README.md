@@ -5,11 +5,13 @@ A collaborative list of learning materials about a security in the iOS apps
 
 ## Welcome to iOS Security repository 👋
 
-The main goal of this repo is to help people learn how to make their iOS apps more secure. Security is not a topic that all iOS developers touch on a daily basis. To some of us it seems quite hard to start learning about it so I thought it would be great to create a collaborative space with all the useful links to the articles, videos, books and other useful resources 🙃
+The main goal of this repo is to help people learn how to make their iOS apps more secure. Security is not a topic that all iOS developers touch on a daily basis. To some of us it seems quite hard to start learning about it so I thought it would be great to create a collaborative space with all the useful links to the articles, videos, books and other useful resources 🙃 
+
+As we all know, IT world is changing rapidly and information gets outdated quite quickly so next to the each resource you will find a date when it was published. You can decide on your own if that information is recent enough. Materials are sorted in each category, starting from the most recent ones.
 
 Please feel free to submit your Pull Requests, suggest new links that you find useful and helpful.
 
-## 📝 Articles
+## 📝 Articles and slide decks
 
 ### from Apple
 
@@ -17,8 +19,10 @@ Please feel free to submit your Pull Requests, suggest new links that you find u
 
 ### other sources
 
-- How To Secure iOS User Data: The Keychain and Biometrics — Face ID or Touch ID - https://www.raywenderlich.com/236-how-to-secure-ios-user-data-the-keychain-and-biometrics-face-id-or-touch-id
-- iOS App Security Tips and Tricks - https://medium.com/@ankurvekariya/ios-app-security-tips-and-tricks-42cdf9301181
+- Workshop: Secure Software Development: From Rookie to Hardcore in 90 Minutes, 21st March 2019 - https://speakerdeck.com/vixentael/workshop-secure-software-development-from-rookie-to-hardcore-in-90-minutes
+- iOS App Security Tips and Tricks, 12th October 2018 - https://medium.com/@ankurvekariya/ios-app-security-tips-and-tricks-42cdf9301181
+- How To Secure iOS User Data: The Keychain and Biometrics — Face ID or Touch ID, 15th January 2018 - https://www.raywenderlich.com/236-how-to-secure-ios-user-data-the-keychain-and-biometrics-face-id-or-touch-id
+- Users' data security in iOS applications, 6th July 2015 - https://speakerdeck.com/vixentael/users-data-security-in-ios-applications
 
 ## 📹 Videos
 
@@ -52,6 +56,10 @@ Please feel free to submit your Pull Requests, suggest new links that you find u
 #### WWDC 2015
 
 - Security and Your Apps - https://developer.apple.com/videos/play/wwdc2015/706/
+
+### other sources
+
+- Building user-centric security model in iOS applications - https://www.youtube.com/watch?v=QG-yw5iG564
 
 ## 📚 Books
 
