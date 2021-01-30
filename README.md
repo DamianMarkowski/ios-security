@@ -5,11 +5,20 @@ A collaborative list of learning materials about a security in the iOS apps
 
 ## Welcome to iOS Security repository 👋
 
-The main goal of this repo is to help people learn how to make their iOS apps more secure. Security is not a topic that all iOS developers touch on a daily basis. To some of us it seems quite hard to start learning about it so I thought it would be great to create a collaborative space with all the useful links to the articles, videos, podcasts, books and other useful resources 🙃
+The main goal of this repo is to help people learn how to make their iOS apps more secure. Security is not a topic that all iOS developers touch on a daily basis. To some of us it seems quite hard to start learning about it so I thought it would be great to create a collaborative space with all the useful links to the articles, videos, books and other useful resources 🙃
 
 Please feel free to submit your Pull Requests, suggest new links that you find useful and helpful.
 
 ## 📝 Articles
+
+### from Apple
+
+- iOS and iPadOS app security overview - https://support.apple.com/en-gb/guide/security/secf49cad4db/1/web/1
+
+### other sources
+
+- How To Secure iOS User Data: The Keychain and Biometrics — Face ID or Touch ID - https://www.raywenderlich.com/236-how-to-secure-ios-user-data-the-keychain-and-biometrics-face-id-or-touch-id
+- iOS App Security Tips and Tricks - https://medium.com/@ankurvekariya/ios-app-security-tips-and-tricks-42cdf9301181
 
 ## 📹 Videos
 
@@ -44,7 +53,10 @@ Please feel free to submit your Pull Requests, suggest new links that you find u
 
 - Security and Your Apps - https://developer.apple.com/videos/play/wwdc2015/706/
 
-## 🎧 Podcasts
-
 ## 📚 Books
 
+- Pro iOS Security and Forensics: Enterprise iPhone and iPad Safety by Eric Butow, 31st July 2018
+- iOS Application Security: The Definitive Guide for Hackers and Developers by David Thiel, 16th February 2016
+- Learning iOS Security by Allister Banks, 27th February 2015
+- iOS Hacker's Handbook by Charlie Miller, 20th April 2012
+- Hacking and Securing iOS Applications: Stealing Data, Hijacking Software, and How to Prevent It by Jonathan Zdziarski, 28th January 2012
