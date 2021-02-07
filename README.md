@@ -23,6 +23,7 @@ Please feel free to submit your Pull Requests, suggest new links that you find u
 - iOS App Security Tips and Tricks, 12th October 2018 - https://medium.com/@ankurvekariya/ios-app-security-tips-and-tricks-42cdf9301181
 - How To Secure iOS User Data: The Keychain and Biometrics — Face ID or Touch ID, 15th January 2018 - https://www.raywenderlich.com/236-how-to-secure-ios-user-data-the-keychain-and-biometrics-face-id-or-touch-id
 - Users' data security in iOS applications, 6th July 2015 - https://speakerdeck.com/vixentael/users-data-security-in-ios-applications
+- OWASP Mobile Security Testing Guide - https://owasp.org/www-project-mobile-security-testing-guide/
 
 ## 📹 Videos
 
@@ -59,7 +60,8 @@ Please feel free to submit your Pull Requests, suggest new links that you find u
 
 ### other sources
 
-- Building user-centric security model in iOS applications - https://www.youtube.com/watch?v=QG-yw5iG564
+- Building Secure iOS Apps (you don’t have to learn it the hard way!), 30th January 2020 - https://www.youtube.com/watch?v=b6LI6j_aJ9k
+- Building user-centric security model in iOS applications, 9th December 2016 - https://www.youtube.com/watch?v=QG-yw5iG564
 
 ## 📚 Books
 
