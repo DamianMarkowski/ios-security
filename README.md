@@ -19,8 +19,10 @@ Please feel free to submit your Pull Requests, suggest new links that you find u
 
 ### other sources
 
+- iOS App Security: 6 Ways How Apple Protects the User’s Data, 28th January 2021 - https://www.appknox.com/blog/ios-app-security-6-ways-how-apple-protects-the-users-data
 - Workshop: Secure Software Development: From Rookie to Hardcore in 90 Minutes, 21st March 2019 - https://speakerdeck.com/vixentael/workshop-secure-software-development-from-rookie-to-hardcore-in-90-minutes
 - iOS App Security Tips and Tricks, 12th October 2018 - https://medium.com/@ankurvekariya/ios-app-security-tips-and-tricks-42cdf9301181
+- Here's How iOS Jailbreak Really Works, 24th June 2018 - https://www.appknox.com/blog/how-does-jailbreak-work
 - How To Secure iOS User Data: The Keychain and Biometrics — Face ID or Touch ID, 15th January 2018 - https://www.raywenderlich.com/236-how-to-secure-ios-user-data-the-keychain-and-biometrics-face-id-or-touch-id
 - Users' data security in iOS applications, 6th July 2015 - https://speakerdeck.com/vixentael/users-data-security-in-ios-applications
 - OWASP Mobile Security Testing Guide - https://owasp.org/www-project-mobile-security-testing-guide/
